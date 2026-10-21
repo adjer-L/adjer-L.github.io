@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Adjer L | Academic Homepage"
+title                    : "Li Haojie | Academic Homepage"
 title_separator          : "-"
-name                     : &name "Adjer L"
-description              : &description "硕士研究生｜多模态多传感器融合感知"
+name                     : &name "Li Haojie"
+description              : &description "Master’s Student | Multimodal and Multisensor Fusion"
 url                      : "https://adjer-L.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "adjer-L/adjer-L.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Adjer L"
+  name             : "Li Haojie"
   pronouns         : # example: "she/her"  
-  bio              : "硕士研究生｜多模态多传感器融合感知"
-  location         : "中国"
-  employer         : "你的大学 / 实验室"
+  bio              : "Master’s Student | Multimodal and Multisensor Fusion"
+  location         : "Beijing, China"
+  employer         : "School of Artificial Intelligence, Beijing Normal University "
   uri              : # URL
-  email            :
+  email            : "202521081034@mail.bnu.edu.cn"
 
   # Academic websites
   academia         : # URL
