@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.Eng. degree in Artificial Intelligence from Beijing Normal University, Zhuhai Campus, in 2025. I am currently pursuing an M.Sc. degree in Computer Science and Technology at the School of Artificial Intelligence, Beijing Normal University. My research interests include multimodal and multisensor fusion, with a particular focus on object perception and detection using multimodal imagery.
+Haojie Li received a B.Eng. degree in Artificial Intelligence from Beijing Normal University, Zhuhai Campus, in 2025 and is currently pursuing an M.Sc. degree in Computer Science and Technology at the School of Artificial Intelligence, Beijing Normal University. Research interests include multimodal and multisensor fusion, with a particular focus on object perception and detection using multimodal imagery.
 
 
 ## Directions
