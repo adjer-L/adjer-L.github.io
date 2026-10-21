@@ -1,11 +1,11 @@
 ---
 title: "Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/arxiv-preprint
 excerpt: 'We propose CSIF-Net, a channel selective interaction fusion network for optical-SAR object detection.'
 date: 2026-10-20
-venue: 'arXiv preprint, 2026'
+venue: 'Journal manuscript under review, 2026'
 paperurl: 'https://arxiv.org/abs/2610.27757'
 citation: 'Haojie Li, Yuanfei Huang, Lingfei Song, Jia Li, and Lizhi Wang. (2026). &quot;Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection.&quot; arXiv preprint arXiv:2610.27757.'
 ---
