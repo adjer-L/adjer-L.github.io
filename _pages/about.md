@@ -10,7 +10,7 @@ redirect_from:
 Li Haojie received a B.Eng. degree in Artificial Intelligence from Beijing Normal University, Zhuhai Campus, in 2025 and is currently pursuing an M.Sc. degree in Computer Science and Technology at the School of Artificial Intelligence, Beijing Normal University. Research interests include multimodal and multisensor fusion, with a particular focus on object perception and detection using multimodal imagery.
 
 
-## Directions
+## Research interests
 
 - Multimodal Learning and Cross-modal Representation
 - Multisensor Fusion for Perception
