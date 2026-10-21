@@ -1,15 +1,17 @@
 ---
-title: "你的论文标题（请替换）"
+title: "Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection"
 collection: publications
 category: conferences
 permalink: /publication/arxiv-preprint
-excerpt: '一篇关于多模态多传感器融合感知的在投论文。'
-date: 2026-10-21
-venue: 'Under review · arXiv preprint'
-paperurl: '#'
-citation: '作者姓名, Adjer L, 合作者姓名. (2026). &quot;你的论文标题（请替换）.&quot; arXiv preprint.'
+excerpt: 'We propose CSIF-Net, a channel selective interaction fusion network for optical-SAR object detection.'
+date: 2026-10-20
+venue: 'arXiv preprint, 2026'
+paperurl: 'https://arxiv.org/abs/2610.27757'
+citation: 'Haojie Li, Yuanfei Huang, Lingfei Song, Jia Li, and Lizhi Wang. (2026). &quot;Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection.&quot; arXiv preprint arXiv:2610.27757.'
 ---
 
-这篇论文目前正在审稿中，预印本已发布于 arXiv。
+Optical and synthetic aperture radar (SAR) imagery provide complementary structural and appearance information for remote sensing object detection. However, cross-modal discrepancies and indiscriminate channel interactions can introduce redundant or conflicting features.
 
-请将本页面中的论文标题、作者顺序、年份以及 `paperurl` 替换为真实的 arXiv 链接，例如：`https://arxiv.org/abs/2601.01234`。
+We propose the Channel Selective Interaction Fusion Network (CSIF-Net), which performs selective channel-level cross-modal interaction. CSIF-Net uses frequency decomposition to construct frequency-aware SAR inputs, a cross-attention channel selection module to model cross-modal channel relationships, and a dual-branch fusion module to enhance shared and SAR-specific features. Experiments on the OGSOD 1.0 and M4-SAR datasets show state-of-the-art performance in horizontal and oriented object detection.
+
+**[arXiv:2610.27757](https://arxiv.org/abs/2610.27757)**
